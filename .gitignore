@@ -1,0 +1,16 @@
+#Visual Studio 2019
+
+#Generated executable files
+[Bb]in/**/*
+![Bb]in/**/*.dll
+
+#Generated intermediate files
+[Ii]ntermediates/**
+.vs/**
+imgui.ini
+
+#Generated user files
+**.user
+
+#Documentation
+[Ll]atex/**

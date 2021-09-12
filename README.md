@@ -1,7 +1,5 @@
 # Unitato_project
 
-#Git help
-
-- git add .
-- git commit -m "<message>"
-- git push
+Kamera irányítása: WASD gombokkal
+Objektum forgatása: RMB
+Kilépés a programból: Quit gomb
